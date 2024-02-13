@@ -1,2 +1,2 @@
 # git_test
-Mo first git repo very cool very cool
+My first git repo very cool very cool
